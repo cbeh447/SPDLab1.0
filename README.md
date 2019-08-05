@@ -1,5 +1,5 @@
 # SPDLab - A Process Synthesis Tool for WWTPs
-This repository contains Matlab code of the SPDLab tool. This tool aims to get a hands on experience on wastewater treatment process synthesize and design.
+This repository contains Matlab code of the SPDLab tool. This tool aims to get a hands on experience on real wastewater treatment process synthesize and design.
 
 
 INSTRUCTIONs to run the tool:
@@ -10,8 +10,9 @@ INSTRUCTIONs to run the tool:
 
 
 INPUTs:
-1. Define the effluent concentration constratints.
-2. Define the Priorities of Objectives which need to optimise.
+1. Select influent type.
+2. Define the effluent concentration constratints.
+3. Define the Priorities of Objectives which need to optimise.
 
 OUTPUTs:
 
@@ -19,5 +20,5 @@ After successful run, it will generate following:
 
 1. A table containing top five plant layouts
 2. A table containing designs of above plant layouts
-3. A Barplot showing comparision of above five designs. 
+3. A Barplot showing comparision of above five designs with basecase plant layout. 
 
